@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is a test repository and this file is edited twice.
+About Me
+
+This is my first git repository.
