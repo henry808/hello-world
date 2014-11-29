@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is a test repository
+About Me
+
+This is my first git repository.
